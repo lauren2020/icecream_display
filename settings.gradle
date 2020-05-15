@@ -1,0 +1,2 @@
+rootProject.name='IceCreamDisplay'
+include ':app'
